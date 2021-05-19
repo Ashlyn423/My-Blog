@@ -65,3 +65,32 @@ input{
 .travel_mainDIV p, .travel_mainDIV h5{
   margin-left:20px;
 }
+
+.header_entrepreneur{
+  line-height:2;
+}
+
+.book{
+  curser:pointer;
+}
+
+.book hr{
+  margin-bottom:10px;
+}
+
+.modal-content{
+  margin-top:100px;
+}
+
+.img_modal{
+  display: inline-block;
+}
+
+.p_modal{
+  margin-top:20px;
+}
+
+.modal-body{
+  text-align:center;
+}
+
